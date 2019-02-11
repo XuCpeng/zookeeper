@@ -8,7 +8,7 @@ import org.junit.Test;
 import java.io.IOException;
 import java.util.List;
 
-public class ZKClient {
+public class ZKClientTest {
     //客户端
     private ZooKeeper zooKeeper=null;
 
